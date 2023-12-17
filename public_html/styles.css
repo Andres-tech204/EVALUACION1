@@ -1,0 +1,58 @@
+
+#Cuerpo {
+    max-width: 600px;
+    margin: 20px auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    background-color: #fff;
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+}
+h1 {
+    color:white;
+    text-align: center;
+    background-color: blue;
+    padding: 1rem 0;
+}
+h2 {
+    color: black;
+    text-align: center;
+}
+#Perfil{
+    background: url(https://media.biobiochile.cl/wp-content/uploads/2022/03/armado-pc-gamers-sp-digital.jpg);
+    
+}
+#Descripcion {
+    color: black;
+    text-align: center;
+}
+#Habilidades {
+
+    text-align: center;
+    h3 {
+
+        color: #1DD1CE;
+        text-align: center;
+    }
+}
+#Imagen {
+    display: block;
+    margin: 0 auto;
+    max-width: 174px;
+    border-radius: 12px;
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1)
+}
+footer {
+    background-color: blue;
+    color: white;
+    text-align: center;
+    padding: 1rem 0;
+}
+#Contacto{
+    text-align: center;
+    h3 {
+
+        color: #1DD1CE;
+        text-align: center;
+    }
+}
